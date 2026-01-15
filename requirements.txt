@@ -1,0 +1,19 @@
+# Core dependencies
+streamlit>=1.28.0
+numpy>=1.24.0
+pandas>=2.0.0
+pillow>=10.0.0
+
+# Plotting
+plotly>=5.14.0
+matplotlib>=3.7.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# CLIP model
+open-clip-torch>=2.20.0
+
+# Explainability
+shap>=0.42.0
